@@ -225,3 +225,22 @@ Common taxonomic patterns:
  - there are 5 ways to organize anything, which really means a million ways
  - there's not right or wrong way to organize information
  - no two information architectures are the same
+
+### choreography
+
+Without constraint users will move where and when they want. Example: [desire paths](https://www.google.com/search?q=desire+path&tbm=isch&tbo=u) 
+
+Context: the circumstances that form the setting for an interaction
+
+Channel: a medium for communication or the passage of information
+
+Placemaking: the art of turning a space into a place by arranging it so people know what they ought do.
+
+5 things about choreography
+ - without constraint, users go where and when they want
+ - rules determine appropriate difference across channels and contexts of use
+ - placemaking is the art of arranging things so the intended use of the place is clear
+ - we optimize for what users ought to do, not what they want to do
+ - choreography is not simple, but without it, messes thrive
+
+###  
